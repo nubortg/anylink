@@ -10,7 +10,7 @@
 [![Docker pulls)](https://img.shields.io/docker/pulls/bjdgyc/anylink.svg)](https://hub.docker.com/r/bjdgyc/anylink)
 ![LICENSE](https://img.shields.io/github/license/bjdgyc/anylink)
 
-AnyLink 是一个企业级远程办公 sslvpn 的软件，可以支持多人同时在线使用。
+AnyLink - это программное обеспечение для удаленного офиса корпоративного уровня sslvpn, которое может поддерживать несколько человек в сети одновременно.
 
 ## Repo
 
